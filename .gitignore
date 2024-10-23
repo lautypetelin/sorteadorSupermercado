@@ -1,0 +1,14 @@
+# Archivos de configuración de NetBeans
+nbproject/private/
+nbproject/Makefile-Debug.mk
+nbproject/Makefile-Release.mk
+
+# Archivos de compilación
+dist/
+build/
+*.class
+
+# Archivos de sistema
+.DS_Store
+*.log
+*.tmp
