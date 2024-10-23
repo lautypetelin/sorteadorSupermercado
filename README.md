@@ -2,7 +2,7 @@
 
 Sorteador es una aplicación de escritorio desarrollada en Java que permite realizar sorteos mensuales de números en un supermercado. La aplicación utiliza una interfaz gráfica que muestra los ganadores en tiempo real, gestionando el sorteo de forma eficiente y visual.
 
-![preview](https://github.com/user-attachments/assets/2b58db6e-e49a-460f-be0e-3fdd4f9b2195)
+![preview](https://github.com/user-attachments/assets/aae65bee-243e-440e-a66c-27ea0325ac52)
 
 ## Características
 
@@ -21,7 +21,7 @@ Sorteador es una aplicación de escritorio desarrollada en Java que permite real
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/sorteador.git
+   git clone https://github.com/lautypetelin/sorteadorSupermercado
    ```
 2. Descargar e instalar [Java 17.0.6](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html) si no lo tienes instalado.
 
